@@ -1,5 +1,5 @@
 PODS:
-  - YABasicFoundation (0.1.0)
+  - YABasicFoundation (0.1.1)
 
 DEPENDENCIES:
   - YABasicFoundation (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  YABasicFoundation: fbc97407e1ad609f8a90f6a3b3692f3044a21d3f
+  YABasicFoundation: 2a23484880f55712462f614e70297eaad69048fd
 
 PODFILE CHECKSUM: 8475e1977072f142c23cc4f2b444b9faa4e4c717
 

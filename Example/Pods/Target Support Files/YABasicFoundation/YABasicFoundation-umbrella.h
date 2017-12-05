@@ -10,6 +10,16 @@
 #endif
 #endif
 
+#import "NSArray+YA.h"
+#import "NSMutableArray+YA.h"
+#import "NSDate+YA.h"
+#import "NSDateFormatter+YA.h"
+#import "NSDictionary+YA.h"
+#import "NSMutableDictionary+YA.h"
+#import "NSNotificationCenter+YA.h"
+#import "NSString+MD5.h"
+#import "NSString+YA.h"
+#import "YABasicFoundation.h"
 
 FOUNDATION_EXPORT double YABasicFoundationVersionNumber;
 FOUNDATION_EXPORT const unsigned char YABasicFoundationVersionString[];
