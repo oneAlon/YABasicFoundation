@@ -69,4 +69,16 @@
 // 是否包含emoji表情
 - (BOOL)ya_containsEmoji;
 
+// 去除两端空格
+- (NSString *)ya_stringByTrim;
+// url编码(百分号)
+-(NSString *)ya_stringByURLEncoding;
+
+//文本单行宽度
+- (CGFloat)ya_widthForFont:(UIFont *)font;
+
+//文本高度
+- (CGFloat)ya_heightForFont:(UIFont *)font width:(CGFloat)width;
+//文本size
+- (CGSize)ya_sizeForFont:(UIFont *)font size:(CGSize)size mode:(NSLineBreakMode)lineBreakMode;
 @end
